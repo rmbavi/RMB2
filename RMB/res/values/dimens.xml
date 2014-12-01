@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="rdo1">0dp</dimen>
+    <dimen name="rdo2">80dp</dimen>
+    <dimen name="rdo3">160dp</dimen>
+    <dimen name="rdo4">240dp</dimen>
+    <dimen name="rdo5">320dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="radiobg_press">#BDBDBD</color>
+    <color name="radiobg_normal">#990000</color>
+    <color name="title_bg">#999999</color>
+    <color name="nav_title_color">#333333</color>
+    <color name="background_white_color">#FFFFFF</color>
+    <color name="background_black_color">#FFFFFF</color>
+    <color name="grav_color">#999999</color>
+    
+</resources>
